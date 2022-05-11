@@ -20,7 +20,7 @@ public class GitHubClass {
 	int z = x*y;
 	System.out.println(z);
 	
-		
+	// this is changes from remote repositry	
 		
 	}
 
